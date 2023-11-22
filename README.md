@@ -8,4 +8,4 @@
 ## Examen de Microdot - Representación Visual y Frontal de Datos
 > Prof. Fabrizio Carlassara
 
-<img src="/escritorio/microdot-sample-main/prueba sensor1" height="100" width="450" />
+<img src="/escritorio/microdot-sample-main/prueba sensor1.png" height="100" width="450" />
