@@ -9,3 +9,7 @@
 > Prof. Fabrizio Carlassara
 
 <img src="/microdot-sample-main/prueba sensor1.png" height="" width="" />
+
+<img src="/microdot-sample-main/prueba sensor2.png" height="" width="" />
+
+<img src="/microdot-sample-main/prueba sensor3.png" height="" width="" />
